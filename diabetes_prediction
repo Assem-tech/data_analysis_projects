@@ -1,0 +1,15 @@
+Title: 
+Diabetes Dataset Analysis
+
+Description:
+This project involves analyzing a dataset related to diabetes. 
+The analysis includes data cleaning, statistical analysis, and visualization using SQL, and Power BI. 
+
+Key aspects of the project include:
+Data Cleaning:
+Removing missing values, handling outliers, and formatting data.
+Statistical Analysis: 
+Performing exploratory data analysis (EDA), calculating correlations, and modeling.
+Visualization: 
+Creating visualizations to illustrate trends, patterns, and insights.
+Tools Used: SQL, Power BI
